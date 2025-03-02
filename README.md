@@ -1,8 +1,7 @@
 # 👋 ¡Hola! Soy Allison Palma
 
 🎓 **Estudiante de Nutrición y Dietética**  
-📍 Guayaquil, Ecuador  
-📧 allpcard@espol.edu.ec  
+📍 Ecuador   
 🔗 www.linkedin.com/in/allison-palma-642727215
 
 ---
@@ -45,7 +44,7 @@ Actualmente, me encuentro en 5to año  en ESPOL y estoy en constante aprendizaje
 ## 📖 Formación Académica
 
 🎓 **Licenciatura en Nutrición y Dietética**  
-📍 Guayaquil, Ecuador    
+📍 Ecuador    
 📅 2020 - Actualidad
 
 ---
@@ -73,6 +72,5 @@ Actualmente, me encuentro en 5to año  en ESPOL y estoy en constante aprendizaje
 
 ## 📞 Contacto
 
-📧 **Email**: allpcard@espol.edu.ec 
 🔗 **LinkedIn**: www.linkedin.com/in/allison-palma-642727215 
 
